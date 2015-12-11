@@ -1,0 +1,18 @@
+/**
+ * Style definitions relevant for backend
+ */
+body > div.container {
+
+}
+.paragraph {
+width: 45%;
+float: right;
+position: relative;
+left: -125px;
+}
+.btc_to_mxn {
+font-weight:bold;
+}
+.txtbox-short {
+width: 325px;
+}

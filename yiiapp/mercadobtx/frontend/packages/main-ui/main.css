@@ -1,0 +1,23 @@
+/**
+ * Style definitions relevant to frontend.
+ */
+
+body > div.container {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+.paragraph {
+width: 45%;
+float: right;
+position: relative;
+left: -125px;
+}
+.btc_to_mxn {
+font-weight:bold;
+}
+.txtbox-short {
+width: 325px;
+}
